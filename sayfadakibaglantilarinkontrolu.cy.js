@@ -19,7 +19,7 @@ describe('Renault.com.tr - QA ', () => {
      cy.url('eq', 'https://www.renault.com.tr/') // https'ye yönlendiriyor mu? Farklı yönlendirmeler mevcut mu?
   });
 
-  it.only('Navigasyon Menüsü Link Kontrolü > Modeller', () => {
+  it('Navigasyon Menüsü Link Kontrolü > Modeller', () => {
 
     const listeOgeleri = ["Yetkili Satıcı Bulun", "Yeni Araç Alın", "Konfigüratör", "Fiyat Listeleri"];
 
