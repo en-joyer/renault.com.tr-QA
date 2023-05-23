@@ -10,8 +10,7 @@ renault.com.tr-QA
 <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
-  [![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
-</p>
+<img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" alt="Cypress.io" />
 
 </div>
 
