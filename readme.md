@@ -74,9 +74,9 @@ The renault.com.tr-QA GitHub project is focused on providing users with automate
 
 | File                                 | Summary                        | Module                               |
 |:-------------------------------------|:-------------------------------|:-------------------------------------|
-| aramakutusukontrol.cy.js             | Error generating file summary. | aramakutusukontrol.cy.js             |
-| sayfadakibaglantilarinkontrolu.cy.js | Error generating file summary. | sayfadakibaglantilarinkontrolu.cy.js |
-| yetkilisaticibul.cy.js               | Error generating file summary. | yetkilisaticibul.cy.js               |
+| aramakutusukontrol.cy.js             | Check Features | aramakutusukontrol.cy.js             |
+| sayfadakibaglantilarinkontrolu.cy.js | Check Features | sayfadakibaglantilarinkontrolu.cy.js |
+| yetkilisaticibul.cy.js               | Check Features | yetkilisaticibul.cy.js               |
 
 </details>
 
@@ -151,15 +151,3 @@ The project maintainers will review your changes and provide feedback or merge t
 
 ---
 
-## 🪪 License
-
-This project is licensed under the `[📌  INSERT-LICENSE-TYPE]` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
-
----
-
-## 🙏 Acknowledgments
-
-[📌  INSERT-DESCRIPTION]
-
-
----
