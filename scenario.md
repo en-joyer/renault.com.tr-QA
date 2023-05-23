@@ -1,6 +1,8 @@
 #
 # **RENAULT.COM.TR – QA**
-🇹🇷
+
+:tr:
+
 _Bu test senaryosu Enes ve Gül tarafından hazırlanmıştır._
 
 **Kontrol Listesi**
