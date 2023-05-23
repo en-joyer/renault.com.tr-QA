@@ -1,0 +1,101 @@
+#
+# ** Renault.com.tr - QA **
+
+:uk:
+
+_This test scenario was prepared by Enes and Gül._
+
+**Control List**
+
+- Chat Bot
+
+- Vehicle Price Learning
+- Find an authorized seller
+- Control of links on the page
+- Search feature control
+
+1. ** Control of links on page **
+
+It is important to check whether the connections in the page work correctly. All buttons and opened lists in the links menu must be correctly functional. It should be checked whether the items on each pop -up list work as expected.
+
+In addition, models, prices and campaigns, Renault Finance, after -sales and services, all links and visuals in the Discover Renault sections should be checked correctly. The harmony between the model names presented with pictures should be paid attention and it is important to ensure that the links are correct.
+
+The following steps should be followed for this control process:
+
+1 When you click on the buttons, you should be confirmed that you are directed towards the relevant pages and that the options in the pop -up lists are opened correctly._
+
+2. Make sure that all images and connections in the _models section are installed correctly. It should be checked that there is a harmony between the visual and declared model name of each model. When clicking on the pictures, it should be confirmed that the details of the relevant model are correctly displayed.
+
+3. It should be checked that all connections in the features and campaigns section provide correct orientations. When we click on each link, make sure that the relevant price list or campaign details are displayed correctly._
+
+4. _Renault finance, after -sales and services departments all the links to work correctly should be checked. When clicking on each link, it should be confirmed that the pages in which relevant financial services or after -sales services are offered are correctly uploaded._
+
+5. It is necessary to ensure that all the links and images in the Discover the _Renault section are uploaded correctly. It should be confirmed that each link presented in this section emphasizes the relevant content or feature.
+
+2. ** Search Box Control **
+
+The search menu should be called at least once with the following texts and the results are shown correctly:
+
+- _ Bir Vehicle Model_
+- _Theyetic dealer name_
+- _Communication_
+- _BROŞURLER_
+- _
+
+After following these steps, negative tests should also be performed. The following negative tests should be tried and make sure that unexpected results are obtained:
+
+- Search as _ "- 1".
+- It should be used as a paragraph search text. (Lorem Ipsum can be used.) _
+- _ As "admin" should be searched._
+- _ "Adminlogin" should be used as a search text._
+
+3. ** Find the authorized seller **
+
+Nearly click on the button and then make sure that the result shown matches the existing location. Random city names should be tried and then searches should be made in the search menu without using Turkish characters and the result of the entered text should be the same.
+
+In the results, the directions and phone numbers should be correct. In the filter section
+
+- _'electric vehicle sales', _
+- _'2. Hand Vehicle Sales', _
+- _'yeni vehicle sales', _
+- _'electric Vehicle Service Center ', _
+- _'mechanical workshop ', _
+- _'PRO+ Center ', _
+- _'karoseri Workshop ', _
+- _'Spare part',_
+- _'renault minutes', _
+- _'Spare part'_
+
+Make sure it is. It should be checked whether the buttons of the maps are running correctly.
+
+4. ** Vehicle Price Learning **
+
+Once the tool is selected, it should be ensured that the elements and pictures on the page are properly loaded and functions work correctly. The relevant steps are listed below:
+
+- After the selection of _Aç, the authorized dealer should be selected and the content should be made correct. After the selection of the authorized dealer, it is confirmed that the information and contact information of the relevant dealer is correctly shown. In addition, the images and other content of the dealer should be uploaded properly.
+
+- Positive and negative tests should be performed on the information filling screen. Positive tests involve the valid data in the form and check whether the forms have been sent successfully. For example, verify that the form is sent successfully when information such as a valid name, e-mail, phone number is entered.
+
+Negative tests are performed to check how the form reacts with incorrect or missing data. For example, try sending the form with incorrect data such as a false e-mail format, an invalid phone number, and verify that the form reacts towards these errors.
+
+((Since we did not want to fill our own information, we did not complete the contact information so we did not go to the approval stage.
+
+))
+
+5. ** Chat Bot **
+
+First released in the chat boat interface
+
+- KVKK text
+- I approve
+- I don't approve
+
+Buttons should be tested.
+
+Then to Chat Bot
+
+- The vehicle model should be asked questions: "I want to get information about Clio."
+- Question about the authorized dealer should be asked: "Contact information, nearest dealer, information about the dealer's services"
+- Online service appointment should be asked and then confirmed that the "Service Appointment" and "Nearest Authorized Service" buttons work as expected.
+- The question of color options should be asked and be sure that the results are expected correctly and the colors are correctly matched.
+- A question should be asked about the loan options and then it should be confirmed whether the "campaigns" and "payment options" buttons work correctly.
