@@ -84,11 +84,6 @@ The renault.com.tr-QA GitHub project is focused on providing users with automate
 
 ## 🚀 Getting Started
 
-### ✅ Prerequisites
-
-Before you begin, ensure that you have the following prerequisites installed:
-> `[📌  INSERT-PROJECT-PREREQUISITES]`
-
 ### 💻 Installation
 
 1. Clone the renault.com.tr-QA repository:
@@ -103,18 +98,19 @@ cd renault.com.tr-QA
 
 3. Install the dependencies:
 ```sh
-npm install
+npm install cypress
 ```
 
 ### 🤖 Using renault.com.tr-QA
 
 ```sh
-node app.js
+npx cypress open
 ```
 
 ### 🧪 Running Tests
 ```sh
-#run tests
+npx cypress run --spec "<path_to_test_file>"
+
 ```
 
 <hr />
