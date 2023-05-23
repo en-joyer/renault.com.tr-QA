@@ -1,6 +1,6 @@
 #
 # **RENAULT.COM.TR – QA**
-<img>https://cdn.countryflags.com/thumbs/turkey/flag-400.png</img>
+🇹🇷
 _Bu test senaryosu Enes ve Gül tarafından hazırlanmıştır._
 
 **Kontrol Listesi**
