@@ -119,9 +119,6 @@ npx cypress run --spec "<path_to_test_file>"
 ## 🛠 Future Development
 - [X] [📌  COMPLETED-TASK]
 - [ ] [📌  INSERT-TASK]
-- [ ] [📌  INSERT-TASK]
-
-
 ---
 
 ## 🤝 Contributing
