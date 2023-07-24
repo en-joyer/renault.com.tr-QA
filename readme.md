@@ -15,7 +15,6 @@ renault.com.tr-QA
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)[![QA HUNT - Academy](https://img.shields.io/badge/QA_HUNT-Academy-blue?style=for-the-badge)](https://)
 
 </div>
-
 </div>
 
 ---
