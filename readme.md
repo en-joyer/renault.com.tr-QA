@@ -9,8 +9,12 @@ renault.com.tr-QA
 <h3 align="center">🚀 Developed with the software and tools below.</h3>
 <p align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg" alt="Cypress.io" />
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)[![QA HUNT - Academy](https://img.shields.io/badge/QA_HUNT-Academy-blue?style=for-the-badge)](https://)
+
+</div>
 
 </div>
 
